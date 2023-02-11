@@ -1,0 +1,28 @@
+.container__small{
+  margin-bottom: 15px;
+  width: 700px;
+
+
+
+}
+
+.container__small-content{
+  display: flex;
+  flex-direction: row;
+}
+
+.small__img > img{
+  width: 200px;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.small__desc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.separetor{
+  margin-top: 10px;
+}
